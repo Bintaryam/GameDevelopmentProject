@@ -1,11 +1,12 @@
 {
+  "permissions": {
+    "allow": [
+      "mcp__ai-game-developer__gameobject-create",
+      "mcp__ai-game-developer__script-execute"
+    ]
+  },
   "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "ai-game-developer"
-  ],
-  "permissions": {
-    "allow": [
-      "mcp__ai-game-developer__gameobject-create"
-    ]
-  }
+  ]
 }
